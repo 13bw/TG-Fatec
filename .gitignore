@@ -1,0 +1,4 @@
+.env
+*.keras
+*.pickle
+*.db
